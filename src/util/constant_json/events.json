@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Healthcare Track",
+        "description": "This session seeks to get people thinking about the ultimate objective of health AI",
+        "category": "AI",
+        "date": { "$date": "2022-07-17T10:00:00.000Z"},
+        "isVirtual": false,
+        "address": "London, United Kingdom"
+    },
+    {
+        "title": "Security Track",
+        "description": "This session seeks to get people thinking about the ultimate objective of AI in security area",
+        "category": "AI",
+        "date": { "$date": "2022-07-13T10:00:00.000Z" },
+        "isVirtual": true,
+        "address": "Bristol, United Kingdom"
+    },
+    {
+        "title": "Android Development Track",
+        "description": "This session seeks to get people learning about android development",
+        "category": "Mobile Development",
+        "date": { "$date": "2022-07-20T10:00:00.000Z" },
+        "isVirtual": true,
+        "address": "York, United Kingdom"
+    },
+    {
+        "title": "Programming for Robotics Track",
+        "description": "This session seeks to get people knowing about the Robotics Programming",
+        "category": "Robotics",
+        "date": { "$date": "2022-07-18T10:00:00.000Z" },
+        "isVirtual": false,
+        "address": "Coventry, United Kingdom"
+    },
+    {
+        "title": "Automation Track",
+        "description": "This session seeks to get people thinking about Automating AI",
+        "category": "AI",
+        "date": { "$date": "2022-07-20T10:00:00.000Z" },
+        "isVirtual": false,
+        "address": "London, United Kingdom"
+    },
+    {
+        "title": "Javascript Track",
+        "description": "This session seeks to get people learning about Javascript",
+        "category": "Web Development",
+        "date": { "$date": "2022-07-15T10:00:00.000Z" },
+        "isVirtual": true,
+        "address": "Liverpool, United Kingdom"
+    },
+    {
+        "title": "Challenges in Robotics Track",
+        "description": "This session seeks to get people understanding about current Challenges in Robotics",
+        "category": "Robotics",
+        "date": { "$date": "2022-08-22T10:00:00.000Z" },
+        "isVirtual": false,
+        "address": "Liverpool, United Kingdom"
+    },
+    {
+        "title": "Deployment of websites Track",
+        "description": "This session seeks to give people overall idea about deployment of websites",
+        "category": "Web Development",
+        "date": { "$date": "2022-06-15T10:00:00.000Z" },
+        "isVirtual": false,
+        "address": "London, United Kingdom"
+    },
+    {
+        "title": "Build & Deploy APIs Track",
+        "description": "This session seeks to get people learn about Building and Deploying APIs",
+        "category": "Web Development",
+        "date": { "$date": "2022-06-18T10:00:00.000Z" },
+        "isVirtual": true,
+        "address": "Bristol, United Kingdom"
+    }
+]
